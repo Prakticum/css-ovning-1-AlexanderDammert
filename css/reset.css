@@ -40,7 +40,10 @@ body {
 }
 
 ol, ul {
-	list-style: none;
+	list-style: disc;
+}
+ul{
+    list-style: decimal;
 }
 
 blockquote, q {
