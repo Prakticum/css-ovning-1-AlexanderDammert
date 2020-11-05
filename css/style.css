@@ -67,3 +67,15 @@ Li:last-child {
 h2 + p {
     font-weight: bold;
 }
+
+ul {
+    list-style: disc;
+    margin-left: 1em; 
+    padding-left: 1em;
+}
+
+ol {
+    list-style: decimal;
+    margin-left: 1em; 
+    padding-left: 1em;
+}
